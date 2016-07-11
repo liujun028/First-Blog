@@ -1,5 +1,5 @@
-title: Book
-description: A simple Jekyll theme
+title: 随笔记录
+description: 育儿灵感、生态观察、学习记录
 url: # site url
 avatar: # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
 favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
@@ -22,7 +22,7 @@ about:
       - name: Book
         url: https://github.com/kkninjae/book
         external: true
-      - name: Lang Liu
+      - name: 自由自在的鱼
         url: http://kkninjae.com/about/
         external: false
 
